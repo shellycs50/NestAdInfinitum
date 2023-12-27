@@ -1,16 +1,16 @@
 # Nest Ad Infinitum
 
-Nest Maker is a silly script to create big objects. On my PC I get to about 800 depth before getting a rangeError.
+Nest Ad Infinitum is a silly script to create big objects. On my PC I get to about 800 depth before getting a rangeError.
 
 ## Installation
 
 - Clone this Repo
-- From within /nestMaker install dependencies
+- From within /NestAdInfinitum install dependencies
 
 ```bash
 git clone <url>
 
-// navigate to /nestMaker
+// navigate to /NestAdInfinitum
 
 npm install
 ```
